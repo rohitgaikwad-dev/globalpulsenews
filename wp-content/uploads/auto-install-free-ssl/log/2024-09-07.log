@@ -1,0 +1,80 @@
+2024-09-07 16:39:28 [error] cURL error 7: Failed to connect to 127.0.0.1 port 2083 after 0 ms: Couldn't connect to server
+
+ File: /home/vol14_1/infinityfree.com/if0_37258854/globalpulsenews.click/htdocs/wp-content/plugins/auto-install-free-ssl/FreeSSLAuto/src/Admin/Factory.php
+ Line number: 333
+
+
+
+2024-09-07 16:39:33 [error] cURL error 28: Connection timed out after 5001 milliseconds
+
+ File: /home/vol14_1/infinityfree.com/if0_37258854/globalpulsenews.click/htdocs/wp-content/plugins/auto-install-free-ssl/FreeSSLAuto/src/Admin/Factory.php
+ Line number: 333
+
+
+
+2024-09-07 16:39:38 [error] cURL error 28: Connection timed out after 5001 milliseconds
+
+ File: /home/vol14_1/infinityfree.com/if0_37258854/globalpulsenews.click/htdocs/wp-content/plugins/auto-install-free-ssl/FreeSSLAuto/src/Admin/Factory.php
+ Line number: 333
+
+
+
+2024-09-07 16:40:26 [info] Starting new account registration
+
+2024-09-07 16:40:26 [info] Sending registration to the Let's Encrypt™ server
+
+2024-09-07 16:40:28 [info] Sending signed request to https://acme-v02.api.letsencrypt.org/acme/new-acct
+
+2024-09-07 16:40:28 [info] kid: https://acme-v02.api.letsencrypt.org/acme/acct/1934102746
+
+2024-09-07 16:40:28 [info] Congrats! A new account has been registered successfully.
+
+2024-09-07 16:40:28 [info] Generating SSL for globalpulsenews.click
+
+2024-09-07 16:40:28 [info] The domains array is given below: 
+
+2024-09-07 16:40:28 [info] <pre>Array
+(
+    [0] =&gt; globalpulsenews.click
+    [1] =&gt; www.globalpulsenews.click
+)
+</pre>
+
+2024-09-07 16:40:28 [info] Starting the SSL certificate generation process with ACME V2
+
+2024-09-07 16:40:28 [info] Requesting challenges for the array of domains
+
+2024-09-07 16:40:30 [info] Sending signed request to https://acme-v02.api.letsencrypt.org/acme/new-order
+
+2024-09-07 16:40:31 [info] Domain 1
+
+2024-09-07 16:40:31 [info] 'HTTP-01' challenge found.
+
+2024-09-07 16:40:31 [info] We got the challenge token for globalpulsenews.click.
+
+2024-09-07 16:40:31 [info] Domain 2
+
+2024-09-07 16:40:32 [info] 'HTTP-01' challenge found.
+
+2024-09-07 16:40:32 [info] We got the challenge token for www.globalpulsenews.click.
+
+2024-09-07 16:41:16 [info] The account is already registered. Continuing...
+
+2024-09-07 16:41:16 [info] 1st Internal Validation: Payload content does not match the challenge URI's content.
+
+2024-09-07 16:41:16 [info] Oops! There was an error creating .htaccess rules in the '.well-known' directory.
+
+2024-09-07 16:41:16 [info] 2nd Internal Validation: Payload content does not match the challenge URI's content.
+
+2024-09-07 16:41:17 [info] 1st Internal Validation: Payload content does not match the challenge URI's content.
+
+2024-09-07 16:41:17 [info] Oops! There was an error creating .htaccess rules in the '.well-known' directory.
+
+2024-09-07 16:41:17 [info] 2nd Internal Validation: Payload content does not match the challenge URI's content.
+
+2024-09-07 16:41:39 [info] The account is already registered. Continuing...
+
+2024-09-07 16:41:39 [debug] TXT record GYhXUWWu3EEseUrGSRKd9hlw6gCtXJHyFrZ1Dx3n0T8 for _acme-challenge.globalpulsenews.click has NOT been propagated till now. Please check whether the TXT record was set correctly. You may also set 'dns_provider_takes_longer_to_propagate' =&gt; true and try again.
+
+2024-09-07 16:41:39 [debug] TXT record dcAlf42RKRqoVO081iU5Yak0cz6fvE0ySCek69zWLHk for _acme-challenge.www.globalpulsenews.click has NOT been propagated till now. Please check whether the TXT record was set correctly. You may also set 'dns_provider_takes_longer_to_propagate' =&gt; true and try again.
+
